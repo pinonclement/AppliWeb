@@ -1,5 +1,3 @@
-CREATE DATABASE gudetama ;
-use gudetama;
 CREATE TABLE  gudetama.user (
 userid int (10) unsigned not null auto_increment,
 motdepasse varchar(950) NOT NULL ,
